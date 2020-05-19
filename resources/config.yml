@@ -1,0 +1,9 @@
+#__     __    _            
+#\ \   / /_ _| |_ _____  __
+#\ \ / / _` | __/ _ \ \/ /
+#  \ V / (_| | || (_) >  < 
+#   \_/ \__,_|\__\___/_/\_\
+
+
+# World that ur spawn located ex world, spawn, myworld
+spawn-world: "world"
